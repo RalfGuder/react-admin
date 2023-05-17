@@ -104,3 +104,62 @@ Dieses Tool ist eine hervorragende Option, wenn du ein umfassendes Designsystem 
 [Evergreen](https://evergreen.segment.com/) von Segment ist eine fantastische React UI-Bibliothek, mit der du ansprechende Softwareprodukte erstellen kannst. Es ist auch ein Designsystem, das dir Flexibilität bietet und dich nicht auf eine bestimmte Konfiguration beschränkt oder eine veraltete Integration benötigt.
 
 Evergreen erleichtert die Erstellung von Softwareprodukten, die sich an wechselnde Designanforderungen anpassen können. Es bietet zahlreiche Funktionen, Komponenten und viele Vorteile, die dir helfen, benutzerfreundliche und leistungsstarke Schnittstellen zu erstellen. Wenn du unternehmenstaugliche Webanwendungen erstellen willst, ist dies eine gute Option für dich.
+
+### 14. Rebass
+[Rebass](https://rebassjs.org/) ist eine React-basierte UI-Komponentenbibliothek, die mit einem gestylten System ausgestattet ist. Sie ist skalierbar, systematisch und responsiv, was Unternehmen brauchen. Sie wurde von dem Front-End-Entwickler Brent Jackson bei Gatsby entwickelt.
+
+Dieses Tool arbeitet mit CSS-in-JavaScript-Bibliotheken und erfordert nicht, dass du selbst CSS in eine App schreibst, indem du ein Style-Objekt anstelle eines eingebetteten CSS-Strings verwendest. So kannst du deinen Code schneller entwickeln und gleichzeitig deine Designelemente und Themen über Rebass-Primitive hinzufügen.
+
+### 15. Mantine
+[Mantine](https://mantine.dev/) ist eine voll ausgestattete React UI-Komponentenbibliothek, mit der du deine Webanwendungen und Websites in kürzester Zeit entwickeln kannst. Sie wurde entwickelt, um deine App zugänglich und flexibel zu machen und enthält über 40 Hooks und über 100 anpassbare Komponenten.
+
+Das Tool ist quelloffen und kostenlos, seine Pakete stehen unter der MIT-Lizenz. Es basiert auf TypeScript und unterstützt mehrere Frameworks.
+
+### 16. Next UI
+Egal, ob du ein Anfänger oder ein erfahrener Entwickler bist, mit [NextUI](https://nextui.org/) kannst du ganz einfach Websites und Apps erstellen. Es ist eine moderne, schnelle und schöne React UI-Bibliothek, mit der du im Handumdrehen loslegen kannst.
+
+Das Tool sieht mit seinen Funktionen, Angeboten und seiner Oberfläche vielversprechend aus. Seine Komponenten unterstützen das serverseitige Rendering in verschiedenen Browsern.
+
+### 17. React Router
+[React Router](https://reactrouter.com/) wird vom Remix-Team und seinen Mitwirkenden entwickelt und gepflegt und ist eine beeindruckende React UI-Komponentenbibliothek. Die neueste Version ist v6, die die besten Funktionen der Vorgängerversionen nutzt und einige Verbesserungen enthält.
+
+Entwicklerteams von namhaften Unternehmen wie Airbnb, Discord, Microsoft und Twitter haben dieses Tool in ihren Projekten eingesetzt. Es ist am besten geeignet, wenn du auf der Suche nach einer Router-Benutzeroberfläche bist, die mit einer anderen Oberfläche arbeiten kann. Es kann deine App-Komponenten mit den entsprechenden URLs abgleichen, um ein besseres Nutzererlebnis zu gewährleisten.
+
+
+### 18. Theme UI
+Wenn du eine themenorientierte React-basierte Benutzeroberfläche erstellen willst, ist Theme U I eine gute Wahl. Es hilft dir, Webanwendungen, Designsysteme, benutzerdefinierte Komponentenbibliotheken, Gatsby-Themes usw. mit größerer Flexibilität zu erstellen.
+
+[Theme UI](https://theme-ui.com/) bietet erstklassige Entwicklerergonomie und folgt constraint-basierten Designprinzipien. Die Gestaltung mit diesem Tool umfasst zwei Hauptschritte:
+
+- Erstellung des Themas durch die Definition von Farben und Schriftarten
+- Styling der einzelnen Komponenten, um eine bessere Kontrolle über deine Anwendung oder Website zu haben
+
+### 19. PrimeReact
+[PrimeReact](https://www.primefaces.org/primereact/) ist eine weitere React UI-Komponentenbibliothek, die von Unternehmen und Entwicklern auf der ganzen Welt genutzt wird. Zu den namhaften Unternehmen gehören Mercedes, Airbus, Ford, Fox, Volkswagen, eBay, Intel, Nvidia, Verizon und American Express.
+
+Dieses Tool hat 39,5k+ wöchentliche Downloads und 2,6k+ GitHub-Sterne. Es hat eine beeindruckende Liste von Funktionen und Komponenten, die dein UI-Design abenteuerlich machen.
+
+### 20. React Redux
+[React Redux](https://react-redux.js.org/) ist eine UI-Komponentenbibliothek, die von Redux gepflegt und regelmäßig mit den neuesten APIs von React und Redux aktualisiert wird. Sie ist berühmt für Eigenschaften wie Vorhersehbarkeit, eine unkomplizierte Schnittstelle und Genauigkeit. Sie eignet sich eher für einfache als für komplexe Projekte.
+
+### 21. Gestalt
+[Gestalt](https://gestalt.netlify.app/home) ist eine UI-Bibliothek, mit der du tolle Benutzeroberflächen erstellen kannst, die die Leute gerne benutzen. Es ist auch das Design-Tool von Pinterest und kommt mit vielen Funktionen und Komponenten. Die Benutzeroberfläche ist so einfach, dass Entwickler schnell mit dem Tool arbeiten können.
+
+### 22. React Motion
+Wenn du nach einer Lösung suchst, um Komponenten in React zu animieren, kannst du [React Motion](https://github.com/chenglou/react-motion) in Betracht ziehen. Es ist eine hervorragende React-Bibliothek, mit der du realistische Animationen erstellen kannst. Der Einstieg und die Nutzung dieses Tools sind ganz einfach.
+
+Zu den Funktionen und Vorteilen gehören:
+
+- **Festlegen von Steifigkeitswerten:** Was dieses Tool noch attraktiver macht, ist, dass du Werte für die Steifigkeit angeben kannst. Du kannst auch Dämpfungsparameter festlegen. Auf diese Weise sehen deine Bauteile realistischer aus, da du die Steifigkeit kontrollieren kannst.
+- **Styling:** Du kannst React Motion verwenden, um die Skalierung einer einfachen Kartenkomponente zu animieren. Hierfür musst du gestylte Komponenten verwenden.
+
+React Motion hat eine einfache, leicht verständliche Dokumentation. Du kannst auch mit der GitHub-Community in Verbindung bleiben, um Feedback und die neuesten Entwicklungen zu erhalten.
+
+### 23. React Virtualized
+Wenn du ein komplexes Frontend mit vielen Daten baust, solltest du React Virtualized verwenden. Egal, ob es sich um Komponenten oder Anpassungen handelt, mit diesem Tool kannst du alles mühelos erledigen. Zu den Funktionen und Vorteilen gehören:
+
+- **Effizientes Rendering:** Das Tool kann große Tabellendaten und Listen effizient darstellen. Daher ist es nützlich, wenn du mehrere Spalten in einer Tabelle oder eine große Liste mit Hunderten oder Tausenden von Elementen darstellen willst.
+- **Komponenten:** Du erhältst viele Komponenten, darunter einen Auto-Sizer, einen Columnizer, einen Cellmeasurer, ein Multigrid, einen Arrowkeeper, Richtungssortierer usw., abgesehen von den üblichen Komponenten. Diese vielseitige Bibliothek kann deine wachsenden Anforderungen an Tabellen erfüllen. Du kannst deine Tabelle auch anpassen, indem du die Zeilenhöhen veränderst.
+- **Browser-Unterstützung:** React Virtualized unterstützt die Standard-Webbrowser für Android und iOS.
+
+Es gibt eine GitHub-Community, der du folgen kannst, um Funktionen anzufordern und über das Tool auf dem Laufenden zu bleiben.
