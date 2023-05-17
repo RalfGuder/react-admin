@@ -87,3 +87,5 @@ Wenn du auf der Suche nach einem React-Framework für deine B2B-Anwendungen bist
 Es handelt sich um ein Open-Source-Tool mit MIT-Lizenz, das robust, stabil und leicht zu erlernen ist und mit dem es Spaß macht, zu arbeiten. Aus diesem Grund haben mehr als 10.000 Unternehmen auf der ganzen Welt React-admin in ihren Projekten eingesetzt.
 
 Mit React-admin kannst du ansprechende Benutzeroberflächen erstellen, egal ob du interne Tools, B2B-Anwendungen, CRMs oder ERPs entwickelst. React-admin soll die Wartungsfreundlichkeit und Produktivität von Entwicklern erhöhen, indem es ihnen ermöglicht, schneller zu entwerfen.
+
+![React-Admin.png](React-Admin.png)
