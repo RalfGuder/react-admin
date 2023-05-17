@@ -79,6 +79,8 @@ Die Integration von React mit Semantic UI kann eine hervorragende Strategie sein
 ### 9. Headless UI
 [Headless UI](https://headlessui.com/) wurde von Tailwind Labs entwickelt und bietet vollständig zugängliche und ungestylte UI-Komponenten, die leicht mit Tailwind CSS kompatibel sind. Es ist eine der besten UI-Bibliotheken für all deine React-basierten Projekte. Außerdem ist sie mit 54,5k+ Sternen auf GitHub sehr beliebt. Da dieses Tool die App-Logik von den visuellen Komponenten trennen kann, ist es eine hervorragende Option, wenn du eine Benutzeroberfläche für deine Anwendung entwickelst. Damit kannst du ganz einfach Anwendungen erstellen, ohne dein HTML zu verlassen. Außerdem ist es eine CSS-Bibliothek mit Klassen wie rotate-90, text-center, pt-4 und flex, die sich auf die Anwendung konzentriert.
 
+![Headless-UI.jpg](Headless-UI.jpg)
+
 ### 10. React-admin
 Wenn du auf der Suche nach einem React-Framework für deine B2B-Anwendungen bist, ist [React-admin](https://marmelab.com/react-admin/) eine gute Wahl. Es zielt darauf ab, den Entwicklern die besten Erfahrungen zu bieten und ermöglicht es dir, dich mehr auf die Erfüllung deiner geschäftlichen Anforderungen zu konzentrieren.
 
