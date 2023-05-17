@@ -156,7 +156,7 @@ Zu den Funktionen und Vorteilen gehören:
 React Motion hat eine einfache, leicht verständliche Dokumentation. Du kannst auch mit der GitHub-Community in Verbindung bleiben, um Feedback und die neuesten Entwicklungen zu erhalten.
 
 ### 23. React Virtualized
-Wenn du ein komplexes Frontend mit vielen Daten baust, solltest du React Virtualized verwenden. Egal, ob es sich um Komponenten oder Anpassungen handelt, mit diesem Tool kannst du alles mühelos erledigen. Zu den Funktionen und Vorteilen gehören:
+Wenn du ein komplexes Frontend mit vielen Daten baust, solltest du [React Virtualized](https://bvaughn.github.io/react-virtualized/#/components/List) verwenden. Egal, ob es sich um Komponenten oder Anpassungen handelt, mit diesem Tool kannst du alles mühelos erledigen. Zu den Funktionen und Vorteilen gehören:
 
 - **Effizientes Rendering:** Das Tool kann große Tabellendaten und Listen effizient darstellen. Daher ist es nützlich, wenn du mehrere Spalten in einer Tabelle oder eine große Liste mit Hunderten oder Tausenden von Elementen darstellen willst.
 - **Komponenten:** Du erhältst viele Komponenten, darunter einen Auto-Sizer, einen Columnizer, einen Cellmeasurer, ein Multigrid, einen Arrowkeeper, Richtungssortierer usw., abgesehen von den üblichen Komponenten. Diese vielseitige Bibliothek kann deine wachsenden Anforderungen an Tabellen erfüllen. Du kannst deine Tabelle auch anpassen, indem du die Zeilenhöhen veränderst.
