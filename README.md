@@ -38,4 +38,4 @@ Die Vorteile der Verwendung einer React UI-Komponentenbibliothek sind:
 
 - **Schnellere Entwicklung:** Anstatt den Code für jede Komponente zu erstellen, kannst du eine React UI-Komponentenbibliothek wie MUI, Chakra UI, React Bootstrap usw. verwenden. Sie stellen dir mehrere gebrauchsfertige Komponenten zur Verfügung, die für dein Design geeignet sind. Auf diese Weise sparst du Zeit und kannst schneller Software entwickeln.
 
-![rapid-development-process.png](https://kinsta.com/wp-content/uploads/2022/09/rapid-development-process.png)
+![rapid-development-process.png](rapid-development-process.png)
