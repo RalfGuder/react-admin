@@ -89,3 +89,18 @@ Es handelt sich um ein Open-Source-Tool mit MIT-Lizenz, das robust, stabil und l
 Mit React-admin kannst du ansprechende Benutzeroberflächen erstellen, egal ob du interne Tools, B2B-Anwendungen, CRMs oder ERPs entwickelst. React-admin soll die Wartungsfreundlichkeit und Produktivität von Entwicklern erhöhen, indem es ihnen ermöglicht, schneller zu entwerfen.
 
 ![React-Admin.png](React-Admin.png)
+
+### 11. Retool
+Wenn du interne Anwendungen erstellst, ist [Retool](https://retool.com/) eine hervorragende Option. Mit Retool musst du dich nicht mehr mit UI-Bibliotheken, Datenquellen und Zugriffskontrollen herumschlagen. Du erhältst eine optimierte Methode, um alles zu handhaben und Anwendungen zu erstellen, die deine Kunden gerne nutzen würden.
+
+Dieses Tool wird von Unternehmen aller Größenordnungen genutzt, von Fortune 500-Unternehmen bis hin zu Start-ups, um großartige interne Anwendungen zu erstellen.
+
+### 12. Grommet
+[Grommet](https://v2.grommet.io/) ist ein vielseitiges React-Framework mit einem aufgeräumten Paket, das Responsivität, Theming, Barrierefreiheit und Modularität beinhaltet. Es hilft dir, deine Softwareentwicklung mit einer mühelosen UI-Komponentenbibliothek zu rationalisieren.
+
+Dieses Tool ist eine hervorragende Option, wenn du ein umfassendes Designsystem suchst, um barrierefreie und reaktionsfähige Mobile-First-Webprojekte zu erstellen. Es wurde von HPE entwickelt und bietet eine lebendige Erfahrung beim Design.
+
+### 13. Evergreen
+[Evergreen](https://evergreen.segment.com/) von Segment ist eine fantastische React UI-Bibliothek, mit der du ansprechende Softwareprodukte erstellen kannst. Es ist auch ein Designsystem, das dir Flexibilität bietet und dich nicht auf eine bestimmte Konfiguration beschränkt oder eine veraltete Integration benötigt.
+
+Evergreen erleichtert die Erstellung von Softwareprodukten, die sich an wechselnde Designanforderungen anpassen können. Es bietet zahlreiche Funktionen, Komponenten und viele Vorteile, die dir helfen, benutzerfreundliche und leistungsstarke Schnittstellen zu erstellen. Wenn du unternehmenstaugliche Webanwendungen erstellen willst, ist dies eine gute Option für dich.
