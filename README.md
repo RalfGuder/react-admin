@@ -17,7 +17,7 @@ Wenn du also React-basierte Software entwickelst, ist die Verwendung einer React
 
 In diesem Artikel stellen wir dir die 21 besten React UI Komponentenbibliotheken vor, die du in deinem nächsten Projekt verwenden kannst. Bevor wir loslegen, wollen wir ein paar grundlegende Konzepte durchgehen, damit du die React UI-Komponentenbibliotheken besser verstehen kannst.
 
-- [Was sind React UI-Komponentenbibliotheken?](/wiki/home)
+- [Was sind React UI-Komponentenbibliotheken?](https://github.com/RalfGuder/react-admin/wiki)
 ## Was sind React UI-Komponentenbibliotheken?
 Eine React UI-Komponentenbibliothek ist ein Werkzeug oder ein Softwaresystem, das gebrauchsfertige Komponenten für React-basierte Anwendungen und Websites enthält. Diese Komponentenbibliotheken helfen dabei, die Softwareentwicklung zu beschleunigen und bieten Entwicklern und Unternehmen viele Vorteile.
 
